@@ -1,4 +1,4 @@
-
+## Hi there :wave:
 **I'm a Backend Developer from São Paulo, Brasil, who loves to work with Ruby ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white)**
 
 - 🎓 I mostly work with: `.rb`, `.ex .exs`, `.html`, `.php`, `compose.yml`
